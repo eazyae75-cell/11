@@ -1,0 +1,22 @@
+{
+  "name": "夏日星光拼豆节",
+  "short_name": "拼豆小店",
+  "description": "拼豆小店管理应用 - 线下预约、作品展示",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF8EA3",
+  "background_color": "#FBF4EC",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
